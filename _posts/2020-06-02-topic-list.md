@@ -13,4 +13,4 @@ published: false
 + Importance of Cisek 2019
 + Review of Juarrero Dynamics in action
 + Summary of Complex systems approaches to understanding the brain
-+ 
++ Intentionality, does it exist?
