@@ -2,14 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Personal blog. Interested in bringing ideas from 4E cognition, complexity theory, artificial life into neuroscience.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[peter@peterzh.com](mailto:peter@peterzh.com)
