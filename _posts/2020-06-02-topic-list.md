@@ -14,3 +14,4 @@ published: false
 + Review of Juarrero Dynamics in action
 + Summary of Complex systems approaches to understanding the brain
 + Intentionality, does it exist?
++ Thinking of decision making in terms of control (phylogenetic refinement)
