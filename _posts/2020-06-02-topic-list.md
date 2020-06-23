@@ -15,3 +15,4 @@ published: false
 + Summary of Complex systems approaches to understanding the brain
 + Intentionality, does it exist?
 + Thinking of decision making in terms of control (phylogenetic refinement)
++ Exploration/Explotation dichotomy misses out regeneration capacity. For example hold off on foraging everything so that things regrow
