@@ -34,3 +34,13 @@ What are some challenges for this?
 * We would need some way to indicate intuitively to people (graphically?) the space of concepts and the level of knowledge you have about something. A 2D map of a field?
 * We would need to be able to quantify 'level of knowledge'. Can concepts be placed into an ordering where one end is 'blurry' and the other end is 'detailed'?
 * We would need to ensure that people are always able to keep the top level blurry (but complete) overview in mind without much effort. They would need to refer to it constantly to situate their new understanding. After a while this high-level overview would become internalised. The high-level ideas could be memorised using Anki, for example.
+
+# One implementation:
+One way to implement this idea of blurry-to-detailed explanation is to use a Question & Answer framework, where there are multiple Answers which get progressively more and more refined in detail. For example,
+
+**Question**: What is a neuron?
+**Answer 1:** A cell in the nervous system
+**Answer 2:** A cell in the nervous system with a special shape, and electrical properties that permit neurons to communicate with each other.
+**Answer 3:** A cell in the nervous system which comprises a long extended projection (called an 'axon') which carries electrical signals ('action potential') from the cell body. Chemicals ('neurotransmitters') are released at the axon tip and move to another neuron to trigger electrical activity.
+**Answer 4:** A cell in the nervous system comprising a single axon and multilpe dendrites. Action potentials form at the base of the axon and move to the axon terminal where they induce neurotransmitter release. Neurotransmitters bind to the dendritic terminal of another neuron triggering electrical activity in the target neuron.
+**Answer 5:** ....etc
