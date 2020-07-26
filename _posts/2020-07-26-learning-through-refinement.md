@@ -3,8 +3,7 @@ published: true
 ---
 ## Learning through refinement: situating concepts and knowing what you don't know
 
-The main problem is: when I want to learn a topic, I need to be able to situate each new concept/fact I learn in i
-ts broader context. I need to be able to see how my new knowledge has 'refined' a previously blurry picture of the field. Instead I often encounter new concepts/facts about a field that feel divorced from each other. I don't understand their relation, what binds them together... eventhough I feel intuitively that these concepts do somehow relate to each other. I also don't have a clear sense of what I don't yet know - each new concept arrives 'out of the blue'. 
+The main problem is: when I want to learn a topic, I need to be able to situate each new concept/fact I learn in its broader context. I need to be able to see how my new knowledge has 'refined' a previously blurry picture of the field. Instead I often encounter new concepts/facts about a field that feel divorced from each other. I don't understand their relation, what binds them together... eventhough I feel intuitively that these concepts do somehow relate to each other. I also don't have a clear sense of what I don't yet know - each new concept arrives 'out of the blue'. 
 
 Textbooks provide a solution to this problem, but require immense time investment to cover the introductory chapters and grind through the comprehensive material.
 
